@@ -1387,7 +1387,7 @@ img {
   color: #595959;
 }
 .page-title {
-  background: url("assets/images/assurance/page.jpg") center center/cover no-repeat
+  background: url("/assets/images/assurance/page.jpg") center center/cover no-repeat
     local;
 }
 .form select {
