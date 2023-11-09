@@ -1366,7 +1366,7 @@ img {
   color: #595959;
 }
 [class~="form"] ::-moz-placeholder {
-  font-style: 0.145833333in;
+  font-style: 0.1458333*33in;
 }
 [class~="form"] ::-moz-placeholder {
   font-style: italic;
